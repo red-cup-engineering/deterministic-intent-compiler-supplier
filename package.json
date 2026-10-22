@@ -32,5 +32,10 @@
     "@red-cup-engineering/semantic-content-identify-service": "workspace:*",
     "@lenticule-science/witness-journal-rdf-projection-service": "workspace:*",
     "@lenticule-science/software-change-proposal-assay": "0.1.3"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
