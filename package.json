@@ -26,7 +26,7 @@
     "@red-cup-engineering/a2a-contracted-agent-service": "workspace:*",
     "@red-cup-engineering/a2a-rmn-part-service": "workspace:*",
     "@red-cup-engineering/a2a-rmn-task-client-service": "workspace:*",
-    "@red-cup-engineering/activitypub-engineering-services-section": "workspace:*",
+    "@red-cup-engineering/activitypub-services-section": "workspace:*",
     "@red-cup-engineering/relation-model-notation-json-codec": "workspace:*",
     "@red-cup-engineering/relation-model-notation-typing": "workspace:*",
     "@red-cup-engineering/semantic-content-identify-service": "workspace:*",
