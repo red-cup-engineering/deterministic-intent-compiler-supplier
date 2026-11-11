@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
-import { deliverFromEnvironment } from "@red-cup-engineering/activitypub-services-section/deliver";
+import { deliverFromEnvironment } from "@red-cup-engineering/activitypub-engineering-services-section/deliver";
 import { projectRmnActivity } from "@red-cup-engineering/activitypub-services-section/rmn-activity";
 import { listAddressedRmnOutbox } from "@red-cup-engineering/activitypub-services-section/rmn-outbox-client";
 import { createSettlementStore, querySettlementRecords } from "@lenticule-science/witness-journal-rdf-projection-service/client";
