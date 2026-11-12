@@ -22,6 +22,7 @@
     "verify": "npm run check && npm test"
   },
   "dependencies": {
+    "@red-cup-engineering/computer-code-engine": "^0.1.0",
     "@a2a-js/sdk": "1.0.0-beta.0",
     "@red-cup-engineering/a2a-contracted-agent-service": "workspace:*",
     "@red-cup-engineering/a2a-rmn-part-service": "workspace:*",
