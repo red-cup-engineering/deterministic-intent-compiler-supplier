@@ -3,7 +3,7 @@ import {
   admitNormalizedSemanticContent,
   identifyNormalizedSemanticContent,
 } from "@red-cup-engineering/semantic-content-identify-service";
-import { jsonToTerm, termToJson } from "@red-cup-engineering/computer-code-engine/sen/json";
+import { jsonToTerm, termToJson } from "@red-cup-engineering/typed-computer-code-engine/sen/json";
 import { inferTy } from "@red-cup-engineering/relation-model-notation-typing";
 
 export function identifyJson(value, objectKind) {
